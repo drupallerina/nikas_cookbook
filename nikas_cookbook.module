@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Nika's Cookbook feature.
+ */
+
+include_once('nikas_cookbook.features.inc');
